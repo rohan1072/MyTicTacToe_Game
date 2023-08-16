@@ -6,6 +6,10 @@ Tic Tac Toe Game using JS
 3. The goal is to form a line of three marks horizontally, vertically, or diagonally. 
 4. The first player to achieve this wins the game.
 # Try it here and now!
+First Pic
+![image](https://github.com/rohan1072/MyTicTacToe_Game/assets/96892664/9b58c07a-1cba-47bb-ba62-e150a583a61a)
+
+Second Pic
 ![image](https://github.com/rohan1072/MyTicTacToe_Game/assets/96892664/66d1d2c7-5d73-4970-9490-914ac6690ca6)
 
 Copyright ©Rohan Agrahari
